@@ -202,7 +202,7 @@ a:hover {
     position: relative;
     min-height: 100vh;
     background: linear-gradient(135deg, var(--primary-accent) 0%, var(--primary-light) 50%, var(--primary-color) 100%),
-                url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&h=800&fit=crop') center/cover;
+                url('20250907_123812.jpg') center/cover;
     background-blend-mode: overlay;
     display: flex;
     align-items: center;
