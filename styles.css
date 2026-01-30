@@ -433,6 +433,11 @@ a:hover {
     margin-bottom: 1rem;
 }
 
+.accent-title {
+    color: var(--primary-dark);
+    font-style: italic;
+}
+
 .service-card ul {
     list-style: none;
     margin-top: 1rem;
