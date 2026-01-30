@@ -919,6 +919,13 @@ a:hover {
     font-size: 0.9rem;
 }
 
+.footer-disclaimer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+    margin: 0 0 1rem;
+}
+
 /* =====================================
    SCROLL TO TOP BUTTON
    ===================================== */
